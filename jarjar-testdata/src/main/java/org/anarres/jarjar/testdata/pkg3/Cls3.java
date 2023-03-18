@@ -12,6 +12,7 @@ package org.anarres.jarjar.testdata.pkg3;
 public class Cls3 {
 
     public void m_d() {
+        System.out.println("Cls3 ---> ");
     }
 
     public static void m_s() {
